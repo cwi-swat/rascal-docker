@@ -1,0 +1,7 @@
+Manifest-Version: 0.0.1
+Project-Name: example
+Main-Function: main
+Main-Module: HelloWorld
+Source: src
+Require-Libraries: 
+
